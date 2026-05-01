@@ -11,3 +11,9 @@ My final project choice is a recipe recommendation tool that suggests meals base
 * rank recipes by ingredient overlap
 * suggest substitutions for missing ingredients
 * display recipe recommendations
+
+## FP Status Update ##
+For my FP Status update, I've revised the simpler version of the recipe recommender to now include:
+* a separate .csv file (recipes.csv) which holds all the possible recipes and ingredients -- this is much cleaner than writing up a dictionary within the main file and allows for us to 
+* a ranked system that sorts the recommended recipes by number of ingredient matches
+* 
