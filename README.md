@@ -64,15 +64,17 @@ done
 
 **Output:**
 
-Recipe: French Toast
-Matches: 3
-Score: 75.0%
-Missing ingredients: ['cinnamon']
+- Recipe: French Toast
+- Matches: 3
+- Score: 75.0%
+- Missing ingredients: ['cinnamon']
 
-Recipe: Omelet
-Matches: 2
-Score: 66.7%
-Missing ingredients: ['cheese']
+""
+
+- Recipe: Omelet
+- Matches: 2
+- Score: 66.7%
+- Missing ingredients: ['cheese']
 
 
 ---
